@@ -15,7 +15,7 @@ public class Task123 {
             mass[i] = val;
             val+=3;
             i++;
-        }while(i<mass.length);
+        }while(i < mass.length);
         return mass;
     }
 
